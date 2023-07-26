@@ -21,7 +21,7 @@ spec:
         runAsUser: 1001
         runAsGroup: 1001
       containers:
-      - image: fetch-app-frontend:v1.0.1
+      - image: t0m0d0cker/fetch-app-frontend:v1.0.0
         name: fetch-app-frontend
         ports:
         - containerPort: 3000
