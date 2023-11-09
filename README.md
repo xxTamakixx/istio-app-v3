@@ -1,4 +1,4 @@
-# nextjs-app-v3
+# istio-app-v3
 Fetch ボタンをクリックすると、 mysql のデータを表示します。
 frontend = nextjs
 backend  = Django
